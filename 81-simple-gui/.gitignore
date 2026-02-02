@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+build/
+
+# Compiled files
+bin/
+*.class
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
